@@ -1,0 +1,2 @@
+# proje1-Bankamatik
+PHYTON İLE BASİT BİR BANKA FONSİYONU
